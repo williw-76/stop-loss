@@ -1,2 +1,4 @@
 # stop-loss
-ce boot est prévu pour 2% de perte selon le levier utilisé, a vous de changer cette valeur directement du code source  
+ce boot a ete realiser pour eviter le calcul du stop-loss lors de trade manuel
+ce code a ete creer pour realiser une stop-loss de 2%
+ce code a ete ameliorer en ajoutant le take-profit d'une valeur 10% 
